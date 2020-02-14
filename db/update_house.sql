@@ -1,0 +1,1 @@
+update house set name = $2 where house_id = $1
